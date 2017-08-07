@@ -1,4 +1,4 @@
-# Computer Aided Worldbuilding System v. 3
+# Minimal React/Bootstrap project
 
 ## How to run
 
