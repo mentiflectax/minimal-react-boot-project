@@ -69,7 +69,7 @@
 	    _createClass(TestPage, [{
 	        key: 'render',
 	        value: function render() {
-	            React.createElement(
+	            return React.createElement(
 	                'div',
 	                null,
 	                React.createElement(
