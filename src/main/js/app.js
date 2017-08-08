@@ -5,9 +5,11 @@ const ReactDOM = require('react-dom');
 
 class TestPage extends React.Component {
     render() {
-        <div>
-            <p>This text was rendered in ReactJS.</p>
-        </div>
+        return (
+            <div>
+                <p>This text was rendered in ReactJS.</p>
+            </div>
+        )
     }
 }
 ReactDOM.render(
